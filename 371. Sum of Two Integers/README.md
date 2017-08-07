@@ -8,6 +8,6 @@ Given *a* = 1 and *b* = 2, return 3.
 **Credits:**<br>
 Special thanks to @fujiaozhu for adding this problem and creating all test cases.
 
-# Difficulty
+## Difficulty
 
 Easy
