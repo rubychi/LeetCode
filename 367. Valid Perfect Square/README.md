@@ -16,9 +16,6 @@ Input: 14
 Returns: False
 ```
 
-**Credits:**<br>
-Special thanks to @elmirap for adding this problem and creating all test cases.
-
-# Difficulty
+## Difficulty
 
 Easy
