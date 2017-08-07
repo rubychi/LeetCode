@@ -1,6 +1,6 @@
 # Statistics
 
-**5/632 Solved**
+Here illustrate the problems I solved on [LeetCode](https://leetcode.com/) - **Totally 5/632 has been solved**
 
 ## Easy - 3
 
