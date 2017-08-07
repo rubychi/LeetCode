@@ -23,7 +23,7 @@ var insert = function(intervals, newInterval) {
     }
     let insertInterval = [newInterval.start, newInterval.end];
     let start = -1, end = -1;
-	/**
+    /**
      * Move pointer "start" and "end" of the inserted interval
      *
      * @param {number} insertNum: The number to be inserted into the original interval
