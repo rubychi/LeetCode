@@ -17,6 +17,6 @@ Given **board** =
 **word** = *"SEE"*, -> returns *true*,<br>
 **word** = *"ABCB"*, -> returns *false*.
 
-# Difficulty
+## Difficulty
 
 Medium
