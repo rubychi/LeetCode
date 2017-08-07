@@ -1,6 +1,6 @@
 # Statistics
 
-Here illustrate the problems I solved on [LeetCode](https://leetcode.com/) - **Totally 5/632 has been solved**
+Here illustrate the problems I solved on [LeetCode](https://leetcode.com/) - **totally 5/632 have been solved**
 
 ## Easy - 3
 
