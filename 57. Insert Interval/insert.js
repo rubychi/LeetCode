@@ -1,0 +1,89 @@
+/**
+ * Definition for an interval.
+ * function Interval(start, end) {
+ *     this.start = start;
+ *     this.end = end;
+ * }
+ */
+/**
+ * @param {Interval[]} intervals
+ * @param {Interval} newInterval
+ * @return {Interval[]}
+ */
+var insert = function(intervals, newInterval) {
+    let setIntervals = [];
+    intervals.forEach(x => {
+        setIntervals.push(x.start);
+        setIntervals.push(x.end);
+    })
+    let result = [];
+    if (!setIntervals.length) {
+        result.push(new Interval(newInterval.start, newInterval.end));
+        return result;
+    }
+    let insertInterval = [newInterval.start, newInterval.end];
+    let start = -1, end = -1;
+	/**
+     * Move pointer "start" and "end" of the inserted interval
+     *
+     * @param {number} insertNum: The number to be inserted into the original interval
+     * @param {number} i: The index of current interval
+     * @param {string} pointer: A string used to indicate if it's the pointer "start" or "end"
+     * @return {number} Return the new index of current interval
+     */
+    function movePointers(insertNum, i, pointer) {
+        // If insertNum is less than A
+        if (insertNum < setIntervals[i]) {
+            // Moving the pointer
+            if (pointer === "start") {
+                start = i;
+                setIntervals.splice(i, 0, insertNum);
+            } else {
+                end = i;
+                setIntervals.splice(i, 0, insertNum);
+            }
+            // Increase the index after adding a number into the array
+            return i+1;
+        }
+        // If insertNum is within A ~ B
+        if (insertNum >= setIntervals[i] && insertNum <= setIntervals[i+1]) {
+            // Moving the pointer
+            if (pointer === "start") {
+                start = i;
+            } else {
+                end = i+1;
+            }
+        }
+        return i;
+    }
+    // Separate the intervals into [A, B]s and search each interval for the proper position to insert using pointers "start" and "end"
+    for (let i = 0; i < setIntervals.length; i=i+2) {
+        // Move the pointer "start"
+        if (start === -1) {
+            i = movePointers(insertInterval[0], i, "start");
+        }
+        // Move the pointer "end"
+        movePointers(insertInterval[1], i, "end");
+        // Finish search after all the positions has been found
+        if (end !== -1) {
+            break;
+        }
+    }
+    // If insertNum is greater than any numbers inside the array of the intervals, then append it at the end
+    if (start === -1 || end === -1) {
+        if (start === -1) {
+            setIntervals.push(insertInterval[0]);
+            setIntervals.push(insertInterval[1]);
+            start = setIntervals.length-1;
+            end = setIntervals.length;
+        } else {
+            setIntervals.splice(setIntervals.length, 0, insertInterval[1]);
+            end = setIntervals.length-1;
+        }
+    }
+    let tmpResult = setIntervals.slice(0, start+1).concat(setIntervals.slice(end));
+    for (let i = 0; i < tmpResult.length; i=i+2) {
+        result.push(new Interval(tmpResult[i], tmpResult[i+1]));
+    }
+    return result;
+};
