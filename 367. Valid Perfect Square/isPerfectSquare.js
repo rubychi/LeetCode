@@ -5,7 +5,7 @@
 var isPerfectSquare = function(num) {
     // Start searching for the number by dividing the interval by 2
     let min = 0, max = num;
-	let result = min;
+    let result = min;
     while(true) {
         if (result*result > num) {
             max = result;
