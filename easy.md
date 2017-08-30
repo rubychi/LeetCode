@@ -4,7 +4,7 @@
 
 | \# | Title | Solution | Acceptance |
 | :--- | :--- | :--- | :--- |
-| 344 | Reverse String | [easy/344.md](/easy/344.md) | 59.2% |
+| 344 | Reverse String | [Link](/344. Reverse String)| 59.2% |
 | 367 | Valid Perfect Square | [Link](/367. Valid Perfect Square/README.md) | 38.2% |
 | 371 | Sum of Two Integers | [Link](/371. Sum of Two Integers/README.md) | 51.2% |
 | 461 | Hamming Distance | [Link](/461. Hamming Distance/README.md) | 69.9% |
