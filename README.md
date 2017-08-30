@@ -4,11 +4,11 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 ## 8/644 Solved
 
-* [Easy](/easy) (6)
+* [Easy](/easy.md) (6)
 
-* [Medium](/medium) (1)
+* [Medium](/medium.md) (1)
 
-* [Hard](/hard) (1)
+* [Hard](/hard.md) (1)
 
 ## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
