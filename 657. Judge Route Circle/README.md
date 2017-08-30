@@ -5,15 +5,15 @@ Initially, there is a Robot at position (0, 0). Given a sequence of its moves, j
 The move sequence is represented by a string. And each move is represent by a character. The valid robot moves are `R` (Right), `L` (Left), `U` (Up) and `D` (down). The output should be true or false representing whether the robot makes a circle.
 
 **Example 1:**<br>
-```
-Input: "UD"
-Output: true
-```
+<pre>
+<b>Input:</b> "UD"
+<b>Output:</b> true
+</pre>
 **Example 2:**<br>
-```
-Input: "LL"
-Output: false
-```
+<pre>
+<b>Input:</b> "LL"
+<b>Output:</b> false
+</pre>
 
 ## Difficulty
 
