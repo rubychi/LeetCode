@@ -10,20 +10,23 @@ Read the GitBook [here](https://rubychi1.gitbooks.io/leetcode/)
 
 ### Easy - 6
 
-* [344. Reverse String](\easy\344.md)
-* [367. Valid Perfect Square](\easy\367.md)
-* [371. Sum of Two Integers](\easy\371.md)
-* [461. Hamming Distance](\easy\461.md)
-* [617. Merge Two Binary Trees](\easy\617.md)
-* [657. Judge Route Circle](\easy\657.md)
+| \# | Title | Solution | Acceptance |
+| :--- | :--- | :--- | :--- |
+| 344 | Reverse String | [Link](/easy/344.md) | 59.2% |
+| 367 | Valid Perfect Square | [Link](/easy/367.md) | 38.2% |
+| 371 | Sum of Two Integers | [Link](/easy/371.md) | 51.2% |
+| 461 | Hamming Distance | [Link](/easy/461.md) | 69.9% |
+| 617 | Merge Two Binary Trees | [Link](/easy/617.md) | 68.3% |
+| 657 | Judge Route Circle | [Link](/easy/657.md) | 69.7% |
 
 ### Medium - 1
 
-* [79. Word Search](\medium\79.md)
+| \# | Title | Solution | Acceptance |
+| :--- | :--- | :--- | :--- |
+| 79 | Word Search | [Link](/medium/79.md) | 26.8% |
 
 ### Hard - 1
 
-* [57. Insert Interval](\hard\57.md)
-
-
-
+| \# | Title | Solution | Acceptance |
+| :--- | :--- | :--- | :--- |
+| 57 | Insert Interval | [Link](/hard/57.md) | 27.7% |
