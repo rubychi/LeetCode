@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Easy](easy.md)
-* Medium
-* Hard
+* [Medium](medium.md)
+* [Hard](hard.md)
 
