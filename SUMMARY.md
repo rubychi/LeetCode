@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Easy](easy.md)
-  * [344](344. Reverse String/README.md)
+  * [344](easy/344.md)
 * [Medium](medium.md)
 * [Hard](hard.md)
 
