@@ -8,18 +8,18 @@ Note:
 0 ≦ `x`, `y` < 2<sup>31</sup>.
 
 **Example:**<br>
-```
-Input: x = 1, y = 4
+<pre>
+<b>Input:</b> x = 1, y = 4
 
-Output: 2
+<b>Output:</b> 2
 
-Explanation:
+<b>Explanation:</b>
 1   (0 0 0 1)
 4   (0 1 0 0)
        ↑   ↑
 
 The above arrows point to positions where the corresponding bits are different.
-```
+</pre>
 ## Difficulty
 
 Easy
