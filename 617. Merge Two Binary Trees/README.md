@@ -6,14 +6,14 @@ You need to merge them into a new binary tree. The merge rule is that if two nod
 
 **Example 1:**<br>
 <pre>
-<b>Input</b>: 
+<b>Input:</b> 
 	Tree 1                     Tree 2                  
           1                         2                             
          / \                       / \                            
         3   2                     1   3                        
        /                           \   \                      
       5                             4   7                  
-<b>Output</b>: 
+<b>Output:</b> 
 Merged tree:
 	     3
 	    / \
