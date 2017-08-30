@@ -2,6 +2,10 @@
 
 Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/)
 
+## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
+
+Read the GitBook [here](https://rubychi1.gitbooks.io/leetcode/)
+
 ## 8/632 Solved
 
 ### Easy - 6
