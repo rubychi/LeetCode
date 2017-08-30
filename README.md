@@ -4,11 +4,11 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 ## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
-Read the GitBook [here](https://rubychi1.gitbooks.io/leetcode/)
+Read [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
 ## 8/632 Solved
 
-### Easy - 6
+Easy (6)
 
 | \# | Title | Solution | Acceptance |
 | :--- | :--- | :--- | :--- |
@@ -19,13 +19,13 @@ Read the GitBook [here](https://rubychi1.gitbooks.io/leetcode/)
 | 617 | Merge Two Binary Trees | [Link](/easy/617.md) | 68.3% |
 | 657 | Judge Route Circle | [Link](/easy/657.md) | 69.7% |
 
-### Medium - 1
+Medium (1)
 
 | \# | Title | Solution | Acceptance |
 | :--- | :--- | :--- | :--- |
 | 79 | Word Search | [Link](/medium/79.md) | 26.8% |
 
-### Hard - 1
+Hard (1)
 
 | \# | Title | Solution | Acceptance |
 | :--- | :--- | :--- | :--- |
