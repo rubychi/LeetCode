@@ -1,6 +1,10 @@
 # Introduction
 
-Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/)
+Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/).
+
+## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
+
+You can browse this document using [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
 ## 8/644 Solved
 
@@ -13,7 +17,3 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 ## Author
 
 **Ruby Chi**
-
-## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
-
-Read [GitBook](https://rubychi1.gitbooks.io/leetcode/)
