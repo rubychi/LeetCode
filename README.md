@@ -8,11 +8,11 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 
 ## 18/644 Solved
 
-* [Easy](/easy.md) \(16\)
+* [Easy \(16\)](/easy.md)
 
-* [Medium](/medium.md) \(1\)
+* [Medium \(1\)](/medium.md)
 
-* [Hard](/hard.md) \(1\)
+* [Hard \(1\)](/hard.md)
 
 ## Author
 
