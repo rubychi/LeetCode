@@ -10,10 +10,10 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 * [Hard](/hard.md) (1)
 
-## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
-
-Read [GitBook](https://rubychi1.gitbooks.io/leetcode/)
-
 ## Author
 
 **Ruby Chi**
+
+## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
+
+Read [GitBook](https://rubychi1.gitbooks.io/leetcode/)
