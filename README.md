@@ -4,7 +4,7 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 ## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
-You can browse this document using [GitBook](https://rubychi1.gitbooks.io/leetcode/)
+You can browse this document [here](https://rubychi1.gitbooks.io/leetcode/)
 
 ## 8/644 Solved
 
