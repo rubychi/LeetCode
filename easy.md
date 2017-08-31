@@ -13,8 +13,8 @@
 | 476 | Number Complement | [Link](/easy/476.md) | 60.9% |
 | 496 | Next Greater Element I | [Link](/easy/496.md) | 56.8% |
 | 500 | Keyboard Row | [Link](/easy/500.md) | 59.8% |
-| 557 |  |  |  |
-| 561 |  |  |  |
+| 557 | Reverse Words in a String III | [Link](/easy/557.md) | 59.6% |
+| 561 | Array Partition I | [Link](/easy/561.md) | 67.1% |
 | 566 | Reshape the Matrix | [Link](/easy/566.md) | 59.1% |
 | 575 | Distribute Candies | [Link](/easy/575.md) | 59.2% |
 | 617 | Merge Two Binary Trees | [Link](/easy/617.md) | 68.3% |
