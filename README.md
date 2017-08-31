@@ -1,6 +1,6 @@
 # Introduction
 
-Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/).
+Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/)
 
 ## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
