@@ -18,6 +18,18 @@
   * [617. Merge Two Binary Trees](easy/617.md)
   * [637. Average of Levels in Binary Tree](easy/637.md)
   * [657. Judge Route Circle](easy/657.md)
+  * 521
+  * 292
+  * 136
+  * 485
+  * 104
+  * 520
+  * 226
+  * 448
+  * 371
+  * 258
+  * 653
+  * 389
 * [Medium](medium.md)
   * [79. Word Search](medium/79.md)
 * [Hard](hard.md)
