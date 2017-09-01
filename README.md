@@ -16,5 +16,5 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 
 ## Author
 
-[**Ruby Chi**](https://github.com/rubychi)
+**Ruby Chi**
 
