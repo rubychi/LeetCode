@@ -6,9 +6,9 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/)
 
-## 18/644 Solved
+## 29/644 Solved
 
-* [Easy \(16\)](/easy.md)
+* [Easy \(27\)](/easy.md)
 
 * [Medium \(1\)](/medium.md)
 
@@ -16,5 +16,5 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 
 ## Author
 
-**Ruby Chi**
+[**Ruby Chi**](https://github.com/rubychi)
 
