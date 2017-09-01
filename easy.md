@@ -27,6 +27,7 @@
 | 561 | Array Partition I | [Link](/easy/561.md) | 67.1% |
 | 566 | Reshape the Matrix | [Link](/easy/566.md) | 59.1% |
 | 575 | Distribute Candies | [Link](/easy/575.md) | 59.2% |
+| 606 | Construct String from Binary Tree | [Link](/easy/606.md) | 50.1% |
 | 617 | Merge Two Binary Trees | [Link](/easy/617.md) | 68.3% |
 | 637 | Average of Levels in Binary Tree | [Link](/easy/637.md) | 55.8% |
 | 653 | Two Sum IV - Input is a BST | [Link](/easy/653.md) | 51.1% |

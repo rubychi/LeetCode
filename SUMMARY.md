@@ -25,6 +25,7 @@
   * [561. Array Partition I](easy/561.md)
   * [566. Reshape the Matrix](easy/566.md)
   * [575. Distribute Candies](easy/575.md)
+  * [606. Construct String from Binary Tree](easy/606.md)
   * [617. Merge Two Binary Trees](easy/617.md)
   * [637. Average of Levels in Binary Tree](easy/637.md)
   * [653. Two Sum IV - Input is a BST](easy/653.md)
