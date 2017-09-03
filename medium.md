@@ -2,9 +2,9 @@
 
 ---
 
-| \# | Title | Solution | Acceptance |
-| :--- | :--- | :--- | :--- |
-| 79 | Word Search | [Link](/medium/79.md) | 26.8% |
+| \# | Title | Acceptance |
+| :--- | :--- | :--- |
+| 79 | [Word Search](/medium/79.md) | 26.8% |
 
 
 
