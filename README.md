@@ -13,5 +13,7 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 * [Medium \(1\)](/medium.md)
 
 * [Hard \(1\)](/hard.md)
+
 <hr/>
+
 *Last updated on Mon Sep 04 2017 00:34:43 GMT+0800*
