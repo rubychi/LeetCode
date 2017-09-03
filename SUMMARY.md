@@ -44,6 +44,8 @@
   * [617. Merge Two Binary Trees](easy/617.md)
   * [637. Average of Levels in Binary Tree](easy/637.md)
   * [653. Two Sum IV - Input is a BST](easy/653.md)
+  * [657. Judge Route Circle](easy/657.md)
+  * [661. Image Smoother](easy/661.md)
 * [Medium](medium.md)
   * [79. Word Search](medium/79.md)
 * [Hard](hard.md)
