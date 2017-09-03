@@ -14,7 +14,3 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 
 * [Hard \(1\)](/hard.md)
 
-## Author
-
-**Ruby Chi**
-
