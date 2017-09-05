@@ -4,6 +4,7 @@
 
 | \# | Title | Acceptance |
 | :--- | :--- | :--- |
+| 13 | [Roman to Integer](/easy/13.md) | 45.9% |
 | 100 | [Same Tree](/easy/100.md) | 46.6% |
 | 104 | [Maximum Depth of Binary Tree](/easy/104.md) | 52.7% |
 | 121 | [Best Time to Buy and Sell Stock](/easy/121.md) | 41.3% |
@@ -13,6 +14,8 @@
 | 168 | [Excel Sheet Column Title](/easy/168.md) | 26.1% |
 | 169 | [Majority Element](/easy/169.md) | 46.7% |
 | 171 | [Excel Sheet Column Number](/easy/171.md) | 47.2% |
+| 206 | [Reverse Linked List](/easy/206.md) | 45.5% |
+| 217 | [Contains Duplicate](/easy/217.md) | 45.9% |
 | 226 | [Invert Binary Tree](/easy/226.md) | 51.9% |
 | 237 | [Delete Node in a Linked List](/easy/237.md) | 46.6% |
 | 242 | [Valid Anagram](/easy/242.md) | 46.5% |
@@ -28,6 +31,7 @@
 | 387 | [First Unique Character in a String](/easy/387.md) | 46.7% |
 | 389 | [Find the Difference](/easy/389.md) | 50.7% |
 | 404 | [Sum of Left Leaves](/easy/404.md) | 47.0% |
+| 409 | [Longest Palindrome](/easy/409.md) | 45.4% |
 | 412 | [Fizz Buzz](/easy/412.md) | 58.7% |
 | 448 | [Find All Numbers Disappeared in an Array](/easy/448.md) | 51.4% |
 | 453 | [Minimum Moves to Equal Array Elements](/easy/453.md) | 47.5% |
@@ -54,10 +58,12 @@
 | 599 | [Minimum Index Sum of Two Lists](/easy/599.md) | 46.8% |
 | 606 | [Construct String from Binary Tree](/easy/606.md) | 50.1% |
 | 617 | [Merge Two Binary Trees](/easy/617.md) | 68.3% |
+| 628 | [Maximum Product of Three Numbers](/easy/628.md) | 45.3% |
 | 637 | [Average of Levels in Binary Tree](/easy/637.md) | 55.8% |
 | 653 | [Two Sum IV - Input is a BST](/easy/653.md) | 51.1% |
 | 657 | [Judge Route Circle](/easy/657.md) | 69.7% |
 | 661 | [Image Smoother](/easy/661.md) | 47.4% |
+| 669 | [Trim a Binary Search Tree](/easy/669.md) | 58.5% |
 
 
 
