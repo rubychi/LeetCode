@@ -16,4 +16,4 @@ You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/
 
 <hr/>
 
-*Last updated on Tue Sep 05 2017 20:22:24 GMT+0800*
+*Last updated on Thu Sep 21 2017 23:37:51 GMT+0800*
