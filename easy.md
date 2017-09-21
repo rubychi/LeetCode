@@ -30,9 +30,11 @@
 | 383 | [Ransom Note](/easy/383.md) | 47.2% |
 | 387 | [First Unique Character in a String](/easy/387.md) | 46.7% |
 | 389 | [Find the Difference](/easy/389.md) | 50.7% |
+| 401 | [Binary Watch](/easy/401.md) | 44.8% |
 | 404 | [Sum of Left Leaves](/easy/404.md) | 47.0% |
 | 409 | [Longest Palindrome](/easy/409.md) | 45.4% |
 | 412 | [Fizz Buzz](/easy/412.md) | 58.7% |
+| 447 | [Number of Boomerangs](/easy/447.md) | 45.2% |
 | 448 | [Find All Numbers Disappeared in an Array](/easy/448.md) | 51.4% |
 | 453 | [Minimum Moves to Equal Array Elements](/easy/453.md) | 47.5% |
 | 455 | [Assign Cookies](/easy/455.md) | 47.1% |
@@ -43,6 +45,7 @@
 | 492 | [Construct the Rectangle](/easy/492.md) | 48.6% |
 | 496 | [Next Greater Element I](/easy/496.md) | 56.8% |
 | 500 | [Keyboard Row](/easy/500.md) | 59.8% |
+| 504 | [Base 7](/easy/504.md) | 44.3% |
 | 506 | [Relative Ranks](/easy/506.md) | 46.5% |
 | 520 | [Detect Capital](/easy/520.md) | 52.0% |
 | 521 | [Longest Uncommon Subsequence I](/easy/521.md) | 55.5% |
