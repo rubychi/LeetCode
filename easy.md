@@ -7,6 +7,7 @@
 | 13 | [Roman to Integer](/easy/13.md) | 45.9% |
 | 100 | [Same Tree](/easy/100.md) | 46.6% |
 | 104 | [Maximum Depth of Binary Tree](/easy/104.md) | 52.7% |
+| 108 | [Convert Sorted Array to Binary Search Tree](/easy/108.md) | 42.4% |
 | 121 | [Best Time to Buy and Sell Stock](/easy/121.md) | 41.3% |
 | 122 | [Best Time to Buy and Sell Stock II](/easy/122.md) | 47.1% |
 | 136 | [Single Number](/easy/136.md) | 54.5% |
@@ -20,6 +21,7 @@
 | 237 | [Delete Node in a Linked List](/easy/237.md) | 46.6% |
 | 242 | [Valid Anagram](/easy/242.md) | 46.5% |
 | 258 | [Add Digits](/easy/258.md) | 51.2% |
+| 268 | [Missing Number](/easy/268.md) | 44.3% |
 | 283 | [Move Zeroes](/easy/283.md) | 50.0% |
 | 292 | [Nim Game](/easy/292.md) | 55.2% |
 | 344 | [Reverse String](/easy/344.md) | 59.2% |
@@ -32,8 +34,10 @@
 | 389 | [Find the Difference](/easy/389.md) | 50.7% |
 | 401 | [Binary Watch](/easy/401.md) | 44.8% |
 | 404 | [Sum of Left Leaves](/easy/404.md) | 47.0% |
+| 405 | [Convert a Number to Hexadecimal](/easy/405.md) | 41.0% |
 | 409 | [Longest Palindrome](/easy/409.md) | 45.4% |
 | 412 | [Fizz Buzz](/easy/412.md) | 58.7% |
+| 415 | [Add Strings](/easy/415.md) | 41.5% |
 | 447 | [Number of Boomerangs](/easy/447.md) | 45.2% |
 | 448 | [Find All Numbers Disappeared in an Array](/easy/448.md) | 51.4% |
 | 453 | [Minimum Moves to Equal Array Elements](/easy/453.md) | 47.5% |
@@ -52,6 +56,8 @@
 | 530 | [Minimum Absolute Difference in BST](/easy/530.md) | 47.2% |
 | 538 | [Convert BST to Greater Tree](/easy/538.md) | 49.7% |
 | 541 | [Reverse String II](/easy/541.md) | 43.7% |
+| 543 | [Diameter of Binary Tree](/easy/543.md) | 44.0% |
+| 551 | [Student Attendance Record I](/easy/551.md) | 44.0% |
 | 557 | [Reverse Words in a String III](/easy/557.md) | 59.6% |
 | 561 | [Array Partition I](/easy/561.md) | 67.1% |
 | 563 | [Binary Tree Tilt](/easy/563.md) | 46.8% |
@@ -67,6 +73,8 @@
 | 657 | [Judge Route Circle](/easy/657.md) | 69.7% |
 | 661 | [Image Smoother](/easy/661.md) | 47.4% |
 | 669 | [Trim a Binary Search Tree](/easy/669.md) | 58.5% |
+| 671 | [Second Minimum Node In a Binary Tree](/easy/671.md) | 42.8% |
+| 674 | [Longest Continuous Increasing Subsequence](/easy/674.md) | 43.8% |
 
 
 
