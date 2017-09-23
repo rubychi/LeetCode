@@ -5,8 +5,10 @@
 | \# | Title | Acceptance |
 | :--- | :--- | :--- |
 | 13 | [Roman to Integer](/easy/13.md) | 45.9% |
+| 70 | [Climbing Stairs](/easy/70.md) | 40.2% |
 | 100 | [Same Tree](/easy/100.md) | 46.6% |
 | 104 | [Maximum Depth of Binary Tree](/easy/104.md) | 52.7% |
+| 107 | [Binary Tree Level Order Traversal II](/easy/107.md) | 40.6% |
 | 108 | [Convert Sorted Array to Binary Search Tree](/easy/108.md) | 42.4% |
 | 121 | [Best Time to Buy and Sell Stock](/easy/121.md) | 41.3% |
 | 122 | [Best Time to Buy and Sell Stock II](/easy/122.md) | 47.1% |
@@ -15,15 +17,18 @@
 | 168 | [Excel Sheet Column Title](/easy/168.md) | 26.1% |
 | 169 | [Majority Element](/easy/169.md) | 46.7% |
 | 171 | [Excel Sheet Column Number](/easy/171.md) | 47.2% |
+| 202 | [Happy Number](/easy/202.md) | 40.8% |
 | 206 | [Reverse Linked List](/easy/206.md) | 45.5% |
 | 217 | [Contains Duplicate](/easy/217.md) | 45.9% |
 | 226 | [Invert Binary Tree](/easy/226.md) | 51.9% |
+| 231 | [Power of Two](/easy/231.md) | 40.3% |
 | 237 | [Delete Node in a Linked List](/easy/237.md) | 46.6% |
 | 242 | [Valid Anagram](/easy/242.md) | 46.5% |
 | 258 | [Add Digits](/easy/258.md) | 51.2% |
 | 268 | [Missing Number](/easy/268.md) | 44.3% |
 | 283 | [Move Zeroes](/easy/283.md) | 50.0% |
 | 292 | [Nim Game](/easy/292.md) | 55.2% |
+| 326 | [Power of Three](/easy/326.md) | 40.3% |
 | 344 | [Reverse String](/easy/344.md) | 59.2% |
 | 349 | [Intersection of Two Arrays](/easy/349.md) | 47.3% |
 | 350 | [Intersection of Two Arrays II](/easy/350.md) | 44.7% |
@@ -62,13 +67,16 @@
 | 561 | [Array Partition I](/easy/561.md) | 67.1% |
 | 563 | [Binary Tree Tilt](/easy/563.md) | 46.8% |
 | 566 | [Reshape the Matrix](/easy/566.md) | 59.1% |
+| 572 | [Subtree of Another Tree](/easy/572.md) | 40.7% |
 | 575 | [Distribute Candies](/easy/575.md) | 59.2% |
+| 594 | [Longest Harmonious Subsequence](/easy/594.md) | 40.8% |
 | 598 | [Range Addition II](/easy/598.md) | 48.1% |
 | 599 | [Minimum Index Sum of Two Lists](/easy/599.md) | 46.8% |
 | 606 | [Construct String from Binary Tree](/easy/606.md) | 50.1% |
 | 617 | [Merge Two Binary Trees](/easy/617.md) | 68.3% |
 | 628 | [Maximum Product of Three Numbers](/easy/628.md) | 45.3% |
 | 637 | [Average of Levels in Binary Tree](/easy/637.md) | 55.8% |
+| 645 | [Set Mismatch](/easy/645.md) | 40.3% |
 | 653 | [Two Sum IV - Input is a BST](/easy/653.md) | 51.1% |
 | 657 | [Judge Route Circle](/easy/657.md) | 69.7% |
 | 661 | [Image Smoother](/easy/661.md) | 47.4% |
