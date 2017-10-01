@@ -6,7 +6,7 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/)
 
-## 99/656 Solved
+## 99/661 Solved
 
 * [Easy \(97\)](/easy.md)
 
