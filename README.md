@@ -4,8 +4,6 @@ Here illustrate the problems I solved using JavaScript on [LeetCode](https://lee
 
 ## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
 
-You can browse the entire document [here](https://rubychi1.gitbooks.io/leetcode/)
-
 ## 99/661 Solved
 
 * [Easy \(97\)](/easy.md)
