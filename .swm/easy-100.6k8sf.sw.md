@@ -9,14 +9,14 @@ app_version: 1.2.4
 
 <br/>
 
-Recursively comparing two trees by their values using the depth-first search `dfs`<swm-token data-swm-token=":easy/100.md:28:3:3:`    function dfs(node1, node2) {`"/>.
+Recursively comparing two trees by their values using the depth-first search `test`<swm-token data-swm-token=":easy/100.md:28:3:3:`    function test(node1, node2) {`"/>.
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 easy/100.md
 ```markdown
 25     var isSameTree = function(p, q) {
 26         "use strict";
 27         let result = true;
-28         function dfs(node1, node2) {
+28         function test(node1, node2) {
 29             if (node1 && node2) {
 30                 if (node1.val !== node2.val) {
 31                     result = false;
