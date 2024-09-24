@@ -2,7 +2,7 @@
 
 Here illustrate the problems I solved using JavaScript on [LeetCode](https://leetcode.com/)
 
-## [GitBook](https://rubychi1.gitbooks.io/leetcode/)
+## GitBook
 
 <img width="1440" alt="GitBook" src="https://github.com/rubychi/LeetCode/assets/18576075/3b5f35d1-c8d5-42cb-a429-d089e9324f23">
 
